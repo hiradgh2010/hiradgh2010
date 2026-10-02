@@ -1,87 +1,71 @@
-<h1 align="center">Hi 👋, I'm Hirad Ghafari</h1>
+# Hi, I'm Hirad Ghafari 👋
 
-<h3 align="center">Front-End Developer | AI & Python Enthusiast</h3>
+### Computer Networking & Software Student | Front-End & AI
 
-<p align="center">
-  🎓 Computer Networking & Software Student
-  <br>
-  💻 Interested in Web Development & Artificial Intelligence
-</p>
+I'm a 16-year-old Computer Networking and Software student from Iran, interested in **Front-End Development** and **Artificial Intelligence**.
 
----
+I enjoy building responsive websites, learning Python, and experimenting with AI-powered applications.
 
-## 🚀 About Me
+## 🛠️ Skills
 
-* 💻 Interested in Front-End Development and AI
-* 🐍 Learning and building projects with Python
-* ⚡ Working with JavaScript, HTML and CSS
-* 🤖 Exploring AI and Hugging Face
-* 🛠️ Building real-world web projects
-* 🎯 Continuously learning and improving my development skills
+### 🌐 Web Development
 
----
+* HTML5
+* CSS3
+* JavaScript
+* Bootstrap
+* Responsive Web Design
 
-## 🧠 Skills
+### 🤖 Python & AI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,git,github,vscode" />
-</p>
+* Python
+* Flask
+* Hugging Face
+* Pandas
+* NumPy
+* Sentiment Analysis
 
----
+### 🧰 Tools
 
-## 📌 Featured Projects
+* Git & GitHub
+* Visual Studio Code
+* Windows
 
-### 🛒 Rouhi Store
+## 🚀 Projects
 
-Responsive e-commerce website for an LG home appliances store.
+### 🛒 LG Home Appliances Store
 
-**Technologies:** HTML, CSS, JavaScript
+Responsive e-commerce website built with HTML, CSS and JavaScript.
 
-### 🥗 Saladno Menu
+🌐 [Live Website](https://rouhistore.ir)
+📂 [GitHub Repository](https://github.com/hiradgh2010/rouhistore)
 
-Responsive menu website for a salad bar and cafe.
+### 🥗 Salad Bar & Cafe Menu
 
-**Technologies:** HTML, CSS, JavaScript
+Responsive menu website built with HTML, CSS and JavaScript.
+
+🌐 [Live Website](https://saladnomenu.ir)
+📂 [GitHub Repository](https://github.com/hiradgh2010/saladno-menu)
 
 ### 🤖 English Text Sentiment Analysis
 
-AI-powered web application for classifying English text as Positive or Negative.
+A Python and Flask application that uses a Hugging Face model to classify English text as positive or negative.
 
-**Technologies:** Python, Flask, Hugging Face, HTML, CSS, JavaScript
-
----
+📂 [GitHub Repository](https://github.com/hiradgh2010/sentiment-analysis)
 
 ## 📚 Currently Learning
 
-* 🐍 Python
-* ⚡ JavaScript
+* 🐍 Improving Python
 * 🌐 Front-End Development
 * 🤖 Artificial Intelligence
 * 🧠 Machine Learning
-* 🐙 Git & GitHub
+* 🚀 Building better real-world projects
 
----
+## 🌍 Languages
 
-## 📊 GitHub Stats
+* Persian — Native
+* English — B1
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiradgh2010&show_icons=true&theme=tokyonight" />
-</p>
+## 📫 Contact
 
----
-
-## 🌐 Connect With Me
-
-📧 Email: **[hiradghafari20@gmail.com](mailto:hiradghafari20@gmail.com)**
-
----
-
-## ⚡ Fun Fact
-
-```python
-while alive:
-    learn()
-    build()
-    improve()
-```
-
+📧 [Hiradghafari20@gmail.com](mailto:Hiradghafari20@gmail.com)
